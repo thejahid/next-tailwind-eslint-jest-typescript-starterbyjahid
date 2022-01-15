@@ -98,6 +98,3 @@ Then, open `./jest.config.js` and find the `globals` config. Add `babelConfig: t
 ```
 
 Also, run `yarn add -D @babel/core babel-plugin-module-resolver eslint-import-resolver-babel-module` to install Babel's dependencies.
-
-# next-tailwind-eslint-jest-typescript-starterbyjahid
-# next-tailwind-eslint-jest-typescript-starterbyjahid
